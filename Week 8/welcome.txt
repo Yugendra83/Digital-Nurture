@@ -1,1 +1,1 @@
-"Welcome to Git Hands-on - Week 8" 
+Welcome to Git Hands-on - Week 8 
